@@ -49,6 +49,12 @@
 
 ---
 
+## 🏆 Cuộc thi
+- Là 1 trong 56 đội Việt Nam lọt vào chung kết “Sinh viên với An toàn thông tin
+ASEAN 2024”.
+  
+---
+
 ## 📫 Liên hệ
 📧 Email: `<mailinggchi0905@gmai.com>`  
 🔗 LinkedIn: `www.linkedin.com/in/chi-mai-thị-linh-09196a363`  
@@ -56,10 +62,6 @@
 
 ---
 
-## ⚡ Một chút thống kê
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=default)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact)
 
 ---
 
