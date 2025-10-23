@@ -50,8 +50,7 @@
 ---
 
 ## 🏆 Cuộc thi
-- Là 1 trong 56 đội Việt Nam lọt vào chung kết “Sinh viên với An toàn thông tin
-ASEAN 2024”.
+- Là 1 trong 56 đội Việt Nam lọt vào chung kết “Sinh viên với An toàn thông tin ASEAN 2024”.
   
 ---
 
@@ -60,7 +59,6 @@ ASEAN 2024”.
 🔗 **LinkedIn:** [www.linkedin.com/in/chi-mai-thị-linh-09196a363](https://www.linkedin.com/in/chi-mai-thị-linh-09196a363)  
 📄 **CV:** https://drive.google.com/file/d/1U__mMHr7g4pM6EK3lJguX6xwRYF93tyn/view?usp=drive_link 
 💻 **GitHub:** [github.com/mailinggchi0905-svg](https://github.com/mailinggchi0905-svg/mailinggchi0905-svg)
- 
 
 ---
 
