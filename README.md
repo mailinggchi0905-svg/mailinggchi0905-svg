@@ -56,10 +56,10 @@ ASEAN 2024”.
 ---
 
 ## 📫 Liên hệ
-📧 Email: `<mailinggchi0905@gmai.com>`  
-🔗 LinkedIn: `www.linkedin.com/in/chi-mai-thị-linh-09196a363`
-📄 CV: `https://drive.google.com/drive/home` 
-🔗 GitHub: `[github.com/mailinggchi0905-svg](https://github.com/mailinggchi0905-svg/mailinggchi0905-svg)`
+📧 **Email:** mailinggchi0905@gmai.com  
+🔗 **LinkedIn:** [www.linkedin.com/in/chi-mai-thị-linh-09196a363](https://www.linkedin.com/in/chi-mai-thị-linh-09196a363)  
+📄 **CV:** https://drive.google.com/file/d/1U__mMHr7g4pM6EK3lJguX6xwRYF93tyn/view?usp=drive_link 
+💻 **GitHub:** [github.com/mailinggchi0905-svg](https://github.com/mailinggchi0905-svg/mailinggchi0905-svg)
  
 
 ---
